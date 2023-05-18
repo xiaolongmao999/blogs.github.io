@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>小龙猫的IT之旅</title>
+    <link>https://xiaolongmao999.github.io/blogs.github.io/</link>
+    <description>Recent content on 小龙猫的IT之旅</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-ch</language>
+    <lastBuildDate>Thu, 18 May 2023 15:20:11 +0800</lastBuildDate><atom:link href="https://xiaolongmao999.github.io/blogs.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>技术文章</title>
+      <link>https://xiaolongmao999.github.io/blogs.github.io/article/</link>
+      <pubDate>Thu, 18 May 2023 16:01:51 +0800</pubDate>
+      
+      <guid>https://xiaolongmao999.github.io/blogs.github.io/article/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>友情链接</title>
+      <link>https://xiaolongmao999.github.io/blogs.github.io/links/</link>
+      <pubDate>Thu, 18 May 2023 15:55:55 +0800</pubDate>
+      
+      <guid>https://xiaolongmao999.github.io/blogs.github.io/links/</guid>
+      <description>小龙猫导航 小龙猫的IT之旅 奔跑中的奶酪</description>
+    </item>
+    
+    <item>
+      <title>关于</title>
+      <link>https://xiaolongmao999.github.io/blogs.github.io/about/</link>
+      <pubDate>Thu, 18 May 2023 15:51:00 +0800</pubDate>
+      
+      <guid>https://xiaolongmao999.github.io/blogs.github.io/about/</guid>
+      <description>一定要像小孩子一样爱笑，眼睛里一定要闪着不谙世事的光！</description>
+    </item>
+    
+    <item>
+      <title>Centos7安装docker</title>
+      <link>https://xiaolongmao999.github.io/blogs.github.io/posts/centos7%E5%AE%89%E8%A3%85docker/</link>
+      <pubDate>Thu, 18 May 2023 15:20:11 +0800</pubDate>
+      
+      <guid>https://xiaolongmao999.github.io/blogs.github.io/posts/centos7%E5%AE%89%E8%A3%85docker/</guid>
+      <description>1.查看当前的内核版本 uname -r 2.使用 root 权限更新 yum 包 yum -y update 3.卸载旧版本（如果之前安装过的话） yum remove docker docker-common docker-selinux docker-engine 4.安装需要的软件包， yum-util 提供yum-config-manager功能，另两个是 devicemapp</description>
+    </item>
+    
+  </channel>
+</rss>
